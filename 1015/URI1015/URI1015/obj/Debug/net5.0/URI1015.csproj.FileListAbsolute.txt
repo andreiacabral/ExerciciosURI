@@ -1,0 +1,16 @@
+D:\Nova pasta (2)\URI\ExerciciosURI\1015\URI1015\URI1015\bin\Debug\net5.0\URI1015.exe
+D:\Nova pasta (2)\URI\ExerciciosURI\1015\URI1015\URI1015\bin\Debug\net5.0\URI1015.deps.json
+D:\Nova pasta (2)\URI\ExerciciosURI\1015\URI1015\URI1015\bin\Debug\net5.0\URI1015.runtimeconfig.json
+D:\Nova pasta (2)\URI\ExerciciosURI\1015\URI1015\URI1015\bin\Debug\net5.0\URI1015.runtimeconfig.dev.json
+D:\Nova pasta (2)\URI\ExerciciosURI\1015\URI1015\URI1015\bin\Debug\net5.0\URI1015.dll
+D:\Nova pasta (2)\URI\ExerciciosURI\1015\URI1015\URI1015\bin\Debug\net5.0\ref\URI1015.dll
+D:\Nova pasta (2)\URI\ExerciciosURI\1015\URI1015\URI1015\bin\Debug\net5.0\URI1015.pdb
+D:\Nova pasta (2)\URI\ExerciciosURI\1015\URI1015\URI1015\obj\Debug\net5.0\URI1015.csproj.AssemblyReference.cache
+D:\Nova pasta (2)\URI\ExerciciosURI\1015\URI1015\URI1015\obj\Debug\net5.0\URI1015.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nova pasta (2)\URI\ExerciciosURI\1015\URI1015\URI1015\obj\Debug\net5.0\URI1015.AssemblyInfoInputs.cache
+D:\Nova pasta (2)\URI\ExerciciosURI\1015\URI1015\URI1015\obj\Debug\net5.0\URI1015.AssemblyInfo.cs
+D:\Nova pasta (2)\URI\ExerciciosURI\1015\URI1015\URI1015\obj\Debug\net5.0\URI1015.csproj.CoreCompileInputs.cache
+D:\Nova pasta (2)\URI\ExerciciosURI\1015\URI1015\URI1015\obj\Debug\net5.0\URI1015.dll
+D:\Nova pasta (2)\URI\ExerciciosURI\1015\URI1015\URI1015\obj\Debug\net5.0\ref\URI1015.dll
+D:\Nova pasta (2)\URI\ExerciciosURI\1015\URI1015\URI1015\obj\Debug\net5.0\URI1015.pdb
+D:\Nova pasta (2)\URI\ExerciciosURI\1015\URI1015\URI1015\obj\Debug\net5.0\URI1015.genruntimeconfig.cache
