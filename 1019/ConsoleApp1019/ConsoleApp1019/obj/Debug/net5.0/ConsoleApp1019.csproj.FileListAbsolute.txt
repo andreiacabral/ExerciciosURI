@@ -1,0 +1,16 @@
+D:\Nova pasta (2)\URI\ExerciciosURI\1019\ConsoleApp1019\ConsoleApp1019\bin\Debug\net5.0\ConsoleApp1019.exe
+D:\Nova pasta (2)\URI\ExerciciosURI\1019\ConsoleApp1019\ConsoleApp1019\bin\Debug\net5.0\ConsoleApp1019.deps.json
+D:\Nova pasta (2)\URI\ExerciciosURI\1019\ConsoleApp1019\ConsoleApp1019\bin\Debug\net5.0\ConsoleApp1019.runtimeconfig.json
+D:\Nova pasta (2)\URI\ExerciciosURI\1019\ConsoleApp1019\ConsoleApp1019\bin\Debug\net5.0\ConsoleApp1019.runtimeconfig.dev.json
+D:\Nova pasta (2)\URI\ExerciciosURI\1019\ConsoleApp1019\ConsoleApp1019\bin\Debug\net5.0\ConsoleApp1019.dll
+D:\Nova pasta (2)\URI\ExerciciosURI\1019\ConsoleApp1019\ConsoleApp1019\bin\Debug\net5.0\ref\ConsoleApp1019.dll
+D:\Nova pasta (2)\URI\ExerciciosURI\1019\ConsoleApp1019\ConsoleApp1019\bin\Debug\net5.0\ConsoleApp1019.pdb
+D:\Nova pasta (2)\URI\ExerciciosURI\1019\ConsoleApp1019\ConsoleApp1019\obj\Debug\net5.0\ConsoleApp1019.csproj.AssemblyReference.cache
+D:\Nova pasta (2)\URI\ExerciciosURI\1019\ConsoleApp1019\ConsoleApp1019\obj\Debug\net5.0\ConsoleApp1019.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nova pasta (2)\URI\ExerciciosURI\1019\ConsoleApp1019\ConsoleApp1019\obj\Debug\net5.0\ConsoleApp1019.AssemblyInfoInputs.cache
+D:\Nova pasta (2)\URI\ExerciciosURI\1019\ConsoleApp1019\ConsoleApp1019\obj\Debug\net5.0\ConsoleApp1019.AssemblyInfo.cs
+D:\Nova pasta (2)\URI\ExerciciosURI\1019\ConsoleApp1019\ConsoleApp1019\obj\Debug\net5.0\ConsoleApp1019.csproj.CoreCompileInputs.cache
+D:\Nova pasta (2)\URI\ExerciciosURI\1019\ConsoleApp1019\ConsoleApp1019\obj\Debug\net5.0\ConsoleApp1019.dll
+D:\Nova pasta (2)\URI\ExerciciosURI\1019\ConsoleApp1019\ConsoleApp1019\obj\Debug\net5.0\ref\ConsoleApp1019.dll
+D:\Nova pasta (2)\URI\ExerciciosURI\1019\ConsoleApp1019\ConsoleApp1019\obj\Debug\net5.0\ConsoleApp1019.pdb
+D:\Nova pasta (2)\URI\ExerciciosURI\1019\ConsoleApp1019\ConsoleApp1019\obj\Debug\net5.0\ConsoleApp1019.genruntimeconfig.cache
