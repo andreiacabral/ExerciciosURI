@@ -1,0 +1,15 @@
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1154\URI1154\URI1154\obj\Debug\net6.0\URI1154.csproj.AssemblyReference.cache
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1154\URI1154\URI1154\obj\Debug\net6.0\URI1154.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1154\URI1154\URI1154\obj\Debug\net6.0\URI1154.AssemblyInfoInputs.cache
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1154\URI1154\URI1154\obj\Debug\net6.0\URI1154.AssemblyInfo.cs
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1154\URI1154\URI1154\obj\Debug\net6.0\URI1154.csproj.CoreCompileInputs.cache
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1154\URI1154\URI1154\bin\Debug\net6.0\URI1154.exe
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1154\URI1154\URI1154\bin\Debug\net6.0\URI1154.deps.json
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1154\URI1154\URI1154\bin\Debug\net6.0\URI1154.runtimeconfig.json
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1154\URI1154\URI1154\bin\Debug\net6.0\URI1154.dll
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1154\URI1154\URI1154\bin\Debug\net6.0\ref\URI1154.dll
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1154\URI1154\URI1154\bin\Debug\net6.0\URI1154.pdb
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1154\URI1154\URI1154\obj\Debug\net6.0\URI1154.dll
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1154\URI1154\URI1154\obj\Debug\net6.0\ref\URI1154.dll
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1154\URI1154\URI1154\obj\Debug\net6.0\URI1154.pdb
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1154\URI1154\URI1154\obj\Debug\net6.0\URI1154.genruntimeconfig.cache
