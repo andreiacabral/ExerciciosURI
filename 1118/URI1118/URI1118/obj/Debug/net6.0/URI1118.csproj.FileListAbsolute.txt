@@ -1,0 +1,15 @@
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1118\URI1118\URI1118\bin\Debug\net6.0\URI1118.exe
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1118\URI1118\URI1118\bin\Debug\net6.0\URI1118.deps.json
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1118\URI1118\URI1118\bin\Debug\net6.0\URI1118.runtimeconfig.json
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1118\URI1118\URI1118\bin\Debug\net6.0\URI1118.dll
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1118\URI1118\URI1118\bin\Debug\net6.0\ref\URI1118.dll
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1118\URI1118\URI1118\bin\Debug\net6.0\URI1118.pdb
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1118\URI1118\URI1118\obj\Debug\net6.0\URI1118.csproj.AssemblyReference.cache
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1118\URI1118\URI1118\obj\Debug\net6.0\URI1118.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1118\URI1118\URI1118\obj\Debug\net6.0\URI1118.AssemblyInfoInputs.cache
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1118\URI1118\URI1118\obj\Debug\net6.0\URI1118.AssemblyInfo.cs
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1118\URI1118\URI1118\obj\Debug\net6.0\URI1118.csproj.CoreCompileInputs.cache
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1118\URI1118\URI1118\obj\Debug\net6.0\URI1118.dll
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1118\URI1118\URI1118\obj\Debug\net6.0\ref\URI1118.dll
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1118\URI1118\URI1118\obj\Debug\net6.0\URI1118.pdb
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1118\URI1118\URI1118\obj\Debug\net6.0\URI1118.genruntimeconfig.cache
