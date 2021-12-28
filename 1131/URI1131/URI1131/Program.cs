@@ -40,7 +40,7 @@ namespace URI1131
             Console.WriteLine(grenais+ " grenais");
             Console.WriteLine("Inter:" + vitoriasInter);
             Console.WriteLine("Gremio:" + vitoriasGremio);
-            Console.WriteLine("empate:" + empate);
+            Console.WriteLine("Empates:" + empate);
 
             if (vitoriasGremio>vitoriasInter)
             {
