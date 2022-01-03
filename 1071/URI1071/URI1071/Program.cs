@@ -6,7 +6,7 @@ x = int.Parse(Console.ReadLine());
 y = int.Parse(Console.ReadLine());
 
 
-if (x > y)
+if (x > y )
 {
     maior = x;
     menor = y;
@@ -17,6 +17,7 @@ else if (y > x)
     maior = y;
     menor = x;
 }
+
 else if (x == y)
 {
     resultado = 0;
