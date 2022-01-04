@@ -12,7 +12,7 @@ if (5<N &&N<2000)
         if (i%2==0)
         {
             
-            Console.WriteLine(i+"^2  = "+Math.Pow(i,2));
+            Console.WriteLine(i+"^2 = "+Math.Pow(i,2));
 
         }
     }
