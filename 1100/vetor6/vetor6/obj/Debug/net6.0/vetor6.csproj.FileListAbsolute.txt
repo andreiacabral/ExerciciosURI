@@ -1,0 +1,15 @@
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1100\vetor6\vetor6\bin\Debug\net6.0\vetor6.exe
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1100\vetor6\vetor6\bin\Debug\net6.0\vetor6.deps.json
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1100\vetor6\vetor6\bin\Debug\net6.0\vetor6.runtimeconfig.json
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1100\vetor6\vetor6\bin\Debug\net6.0\vetor6.dll
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1100\vetor6\vetor6\bin\Debug\net6.0\ref\vetor6.dll
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1100\vetor6\vetor6\bin\Debug\net6.0\vetor6.pdb
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1100\vetor6\vetor6\obj\Debug\net6.0\vetor6.csproj.AssemblyReference.cache
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1100\vetor6\vetor6\obj\Debug\net6.0\vetor6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1100\vetor6\vetor6\obj\Debug\net6.0\vetor6.AssemblyInfoInputs.cache
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1100\vetor6\vetor6\obj\Debug\net6.0\vetor6.AssemblyInfo.cs
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1100\vetor6\vetor6\obj\Debug\net6.0\vetor6.csproj.CoreCompileInputs.cache
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1100\vetor6\vetor6\obj\Debug\net6.0\vetor6.dll
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1100\vetor6\vetor6\obj\Debug\net6.0\ref\vetor6.dll
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1100\vetor6\vetor6\obj\Debug\net6.0\vetor6.pdb
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1100\vetor6\vetor6\obj\Debug\net6.0\vetor6.genruntimeconfig.cache

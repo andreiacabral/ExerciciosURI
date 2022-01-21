@@ -1,0 +1,15 @@
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1102\vetor08\vetor08\bin\Debug\net6.0\vetor08.exe
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1102\vetor08\vetor08\bin\Debug\net6.0\vetor08.deps.json
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1102\vetor08\vetor08\bin\Debug\net6.0\vetor08.runtimeconfig.json
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1102\vetor08\vetor08\bin\Debug\net6.0\vetor08.dll
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1102\vetor08\vetor08\bin\Debug\net6.0\ref\vetor08.dll
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1102\vetor08\vetor08\bin\Debug\net6.0\vetor08.pdb
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1102\vetor08\vetor08\obj\Debug\net6.0\vetor08.csproj.AssemblyReference.cache
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1102\vetor08\vetor08\obj\Debug\net6.0\vetor08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1102\vetor08\vetor08\obj\Debug\net6.0\vetor08.AssemblyInfoInputs.cache
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1102\vetor08\vetor08\obj\Debug\net6.0\vetor08.AssemblyInfo.cs
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1102\vetor08\vetor08\obj\Debug\net6.0\vetor08.csproj.CoreCompileInputs.cache
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1102\vetor08\vetor08\obj\Debug\net6.0\vetor08.dll
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1102\vetor08\vetor08\obj\Debug\net6.0\ref\vetor08.dll
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1102\vetor08\vetor08\obj\Debug\net6.0\vetor08.pdb
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\1102\vetor08\vetor08\obj\Debug\net6.0\vetor08.genruntimeconfig.cache
