@@ -1,30 +1,35 @@
 ﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
+// See https://aka.ms/new-console-template for more information
 
 
-string[] nomes;
-double[] nota1;
-double[] nota2;
+int[] A;
+int[] B;
+int[] C;
 int N;
 
-
 N = int.Parse(Console.ReadLine());
-nomes = new string[N];
-nota1 = new double[N];
-nota2 = new double[N];
+A = new int[N];
+B = new int[N];
+C = new int[N];
 
+string[] s = Console.ReadLine().Split(' ');
 for (int i = 0; i < N; i++)
 {
-   string[] s = Console.ReadLine().Split(' ');
-
-    nomes[i] = s[0];
-    nota1[i] =double.Parse(s[1]);
-    nota2[i] =double.Parse(s[2]);
+    A[i] = int.Parse(s[i]);
 }
-Console.WriteLine("Alunos aprovados:");
+s = Console.ReadLine().Split(' ');
 for (int i = 0; i < N; i++)
 {
-    if ((nota1[i]+nota2[i])/2>=6)
-    {
-        Console.WriteLine(nomes[i]);
-    }
+    B[i] = int.Parse(s[i]);
+}
+
+for (int i = 0; i < N; i++)
+{
+    C[i] = B[i] + A[i];
+
+}
+for (int i = 0; i < N; i++)
+{
+    Console.Write(C[i] + " ");
 }
