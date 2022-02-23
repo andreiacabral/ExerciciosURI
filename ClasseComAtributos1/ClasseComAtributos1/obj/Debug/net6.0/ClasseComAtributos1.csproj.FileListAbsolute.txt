@@ -1,0 +1,15 @@
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\ClasseComAtributos1\ClasseComAtributos1\bin\Debug\net6.0\ClasseComAtributos1.exe
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\ClasseComAtributos1\ClasseComAtributos1\bin\Debug\net6.0\ClasseComAtributos1.deps.json
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\ClasseComAtributos1\ClasseComAtributos1\bin\Debug\net6.0\ClasseComAtributos1.runtimeconfig.json
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\ClasseComAtributos1\ClasseComAtributos1\bin\Debug\net6.0\ClasseComAtributos1.dll
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\ClasseComAtributos1\ClasseComAtributos1\bin\Debug\net6.0\ref\ClasseComAtributos1.dll
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\ClasseComAtributos1\ClasseComAtributos1\bin\Debug\net6.0\ClasseComAtributos1.pdb
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\ClasseComAtributos1\ClasseComAtributos1\obj\Debug\net6.0\ClasseComAtributos1.csproj.AssemblyReference.cache
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\ClasseComAtributos1\ClasseComAtributos1\obj\Debug\net6.0\ClasseComAtributos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\ClasseComAtributos1\ClasseComAtributos1\obj\Debug\net6.0\ClasseComAtributos1.AssemblyInfoInputs.cache
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\ClasseComAtributos1\ClasseComAtributos1\obj\Debug\net6.0\ClasseComAtributos1.AssemblyInfo.cs
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\ClasseComAtributos1\ClasseComAtributos1\obj\Debug\net6.0\ClasseComAtributos1.csproj.CoreCompileInputs.cache
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\ClasseComAtributos1\ClasseComAtributos1\obj\Debug\net6.0\ClasseComAtributos1.dll
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\ClasseComAtributos1\ClasseComAtributos1\obj\Debug\net6.0\ref\ClasseComAtributos1.dll
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\ClasseComAtributos1\ClasseComAtributos1\obj\Debug\net6.0\ClasseComAtributos1.pdb
+C:\Users\lg_pi\Documents\GitHub\ExerciciosURI\ClasseComAtributos1\ClasseComAtributos1\obj\Debug\net6.0\ClasseComAtributos1.genruntimeconfig.cache
